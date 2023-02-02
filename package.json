@@ -1,0 +1,23 @@
+{
+  "name": "file-drag-and-drop",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.3",
+    "typescript": "^4.9.3",
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http2-express-bridge": "^1.0.7",
+    "install": "^0.13.0",
+    "mkcert": "^1.5.1",
+    "npm": "^9.4.0"
+  }
+}
