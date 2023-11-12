@@ -1,1 +1,1 @@
-открываем приложение в браузере по адресу https://staffuser.github.io/load/
+Open the application in the browser at https://staffuser.github.io/load/
